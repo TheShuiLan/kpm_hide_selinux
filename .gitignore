@@ -1,0 +1,21 @@
+# KPM 编译产物
+*.kpm
+*.o
+*.obj
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+Thumbs.db
+.DS_Store
+*.bak
+
+# 临时文件
+commit_msg.txt
+test_*
+*.bin
